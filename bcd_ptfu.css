@@ -1,0 +1,9 @@
+@charset "utf-8";
+
+.bptfu-container {border:1px solid #00A0D2; padding:8px;margin:8px 2px;border-radius:6px;}
+.bptfu-title-container {padding:2px 4px;color:#666A79;}
+.bptfu-input {width:100%;border: 1px solid #9FDEF2;border-radius: 3px;margin: 6px 0;}
+.bptfu-submit {width:100%;text-align: center; font-weight: 700; text-transform: uppercase;}
+.bptfu-answer-container {height:44px;line-height:1.2em;text-align: center; color:#0073aa;  padding-top: 6px;}
+.bptfu-success {color: #0bb300;}
+.bptfu-error {color: #DD001B;}
